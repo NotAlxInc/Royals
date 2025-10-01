@@ -1,6 +1,6 @@
-# Royals - Girls Softball Team
+# Carolina Royals - Girls Softball Team
 
-This repository serves as the central organizational hub for the Royals girls softball team. It contains team documentation, practice plans, game strategies, player development notes, and coaching resources.
+This repository serves as the central organizational hub for the Carolina Royals girls softball team. It contains team documentation, practice plans, game strategies, player development notes, and coaching resources.
 
 ## Repository Purpose
 
@@ -30,5 +30,5 @@ If you're an LLM working with this repository, please read the context file loca
 
 ---
 
-**Team:** Royals Girls Softball  
+**Team:** Carolina Royals Girls Softball  
 **Focus:** Player development, team culture, and competitive excellence
